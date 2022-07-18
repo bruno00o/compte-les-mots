@@ -1,6 +1,12 @@
 # compte-les-mots
 Compte le nombre d'occurences des mots dans un fichier texte
 
+## Essayer sur [Replit](https://replit.com/@bruno00o/compte-les-mots?v=1)
+
+https://replit.com/@bruno00o/compte-les-mots?v=1
+
+⚠️ comporte quelques warnings à la compilation non présents lors de la compilation en local
+
 ## Compilation
 
     make
