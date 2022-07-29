@@ -1,6 +1,8 @@
 # compte-les-mots
 Compte le nombre d'occurences des mots dans un fichier texte
 
+(TP de programmation en C à l'université)
+
 ## Essayer sur [Replit](https://replit.com/@bruno00o/compte-les-mots?v=1)
 
 https://replit.com/@bruno00o/compte-les-mots?v=1
